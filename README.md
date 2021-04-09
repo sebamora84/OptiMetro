@@ -15,4 +15,5 @@ Executed from command line it can receive 4 parameters:
 -p  Path of the configuration file. Default "StationMatrix.csv".
 
 Example:
-OptiMetro.exe -s A -e F -c Green -p StationMatrix.csv.
+
+OptiMetro.exe -s A -e F -c Green -p StationMatrix.csv
