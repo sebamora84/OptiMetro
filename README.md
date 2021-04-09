@@ -7,8 +7,11 @@ An example of the configuration is included in the solution.
 Executed from command line it can receive 4 parameters:
 
 -s  Name of the starting point. Default "A".
+
 -e  Name of the ending point. Default "F".
+
 -c  Transport type. Default any type.
+
 -p  Path of the configuration file. Default "StationMatrix.csv".
 
 Example:
